@@ -1,5 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=120&section=header&text=S%20VIKAS&fontSize=36&fontColor=ffffff&fontAlignY=50&desc=Software%20Engineer&descSize=14&descAlignY=75&descAlign=50&animation=fadeIn"/>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=9F9F9F&center=true&vCenter=true&repeat=true&width=500&lines=Building+Scalable+Backend+Systems;Crafting+Cloud-Native+Applications;Designing+High-Performance+APIs" alt="Typing SVG" />
+</div>
+
+<br>
+
+---
+
 ### Tech Stack
 
 **Backend**
@@ -19,6 +27,7 @@
 **Databases & Messaging**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-1a1a2e?style=flat&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-1a1a2e?style=flat&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1a1a2e?style=flat&logo=rabbitmq&logoColor=white)
@@ -34,11 +43,65 @@
 
 ---
 
+### Projects
+
+<table>
+<tr>
+<td width="50%" valign="top"> 
+
+<h4>Intelligent Warehouse Orchestration System</h4>  
+
+<p> 
+Enterprise-grade cloud-native microservices platform orchestrating warehouse operations at scale with event-driven architecture and AI-powered analytics. 
+</p>
+
+<br>
+
+<p>
+<img src="https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Spring-1a1a2e?style=for-the-badge&logo=springboot&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Kafka-1a1a2e?style=for-the-badge&logo=apachekafka&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/RabbitMQ-1a1a2e?style=for-the-badge&logo=rabbitmq&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Redis-1a1a2e?style=for-the-badge&logo=redis&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=white" height="22"/>
+</p>
+
+</td>
+<td width="50%" valign="top"> 
+
+<h4>CareSync — Hospital Automation</h4>
+
+<p> 
+Full-stack hospital management system with role-based access control, reducing manual administrative tasks by 70% through automated digital workflows.
+</p>
+
+<br>
+
+<p>
+<img src="https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Spring-1a1a2e?style=for-the-badge&logo=springboot&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Security-1a1a2e?style=for-the-badge&logo=springsecurity&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/JWT-1a1a2e?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwindcss&logoColor=white" height="22"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
 ### GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sriramanenivikas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=sriramanenivikas&hide_border=true&background=0d1117&stroke=1a1a2e&ring=ffffff&fire=ffffff&currStreakNum=9f9f9f&sideNums=9f9f9f&currStreakLabel=ffffff&sideLabels=ffffff&dates=9f9f9f" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=sriramanenivikas&hide_border=true&background=0d1117&stroke=1a1a2e&ring=ffffff&fire=ffffff&currStreakNum=9f9f9f&sideNums=9f9f9f&currStreakLabel=ffffff&sideLabels=ffffff&dates=9f9f9f" alt="Streak Stats" width="60%"/>
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriramanenivikas&bg_color=0d1117&color=ffffff&line=ffffff&point=9f9f9f&area=true&hide_border=true&area_color=1a1a2e" width="100%" alt="Activity Graph"/>
@@ -50,60 +113,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
-
----
-
-### Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Intelligent Warehouse Orchestration System**
-
-Enterprise-grade cloud-native microservices platform orchestrating warehouse operations at scale with event-driven architecture and AI-powered analytics.
-
-<br>
-
-<p>
-<img src="https://img.shields.io/badge/-Java-1a1a2e?style=flat-square&logo=openjdk&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&logo=python&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-Spring%20Boot-1a1a2e?style=flat-square&logo=springboot&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-Kafka-1a1a2e?style=flat-square&logo=apachekafka&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-RabbitMQ-1a1a2e?style=flat-square&logo=rabbitmq&logoColor=white" height="20"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/-PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-Redis-1a1a2e?style=flat-square&logo=redis&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-Docker-1a1a2e?style=flat-square&logo=docker&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-AWS-1a1a2e?style=flat-square&logo=amazonaws&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-React-1a1a2e?style=flat-square&logo=react&logoColor=white" height="20"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-**CareSync — Hospital Automation**
-
-Full-stack hospital management system with role-based access control, reducing manual administrative tasks by 70% through automated digital workflows.
-
-<br>
-
-<p>
-<img src="https://img.shields.io/badge/-Java-1a1a2e?style=flat-square&logo=openjdk&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-Spring%20Boot-1a1a2e?style=flat-square&logo=springboot&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-Spring%20Security-1a1a2e?style=flat-square&logo=springsecurity&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-JWT-1a1a2e?style=flat-square&logo=jsonwebtokens&logoColor=white" height="20"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/-PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-React-1a1a2e?style=flat-square&logo=react&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-Tailwind-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=white" height="20"/>
-</p>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -138,17 +147,15 @@ Full-stack hospital management system with role-based access control, reducing m
 
 ---
 
-### Contact
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriramanenivikas/)
 [![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriramanenivikas123@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sriramanenivikas)
 [![LeetCode](https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sriramanenivikas123/)
 
----
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sriramanenivikas&style=for-the-badge&color=1a1a2e&labelColor=0d1117&label=VIEWS" alt="Profile Views"/>
-</p>
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=80&section=footer"/>
