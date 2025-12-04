@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=38&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=130&lines=S+VIKAS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=38&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=130&lines=SRIRAMANENIVIKAS" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1200&color=AAAAAA&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Backend+Developer" />
 </div>
@@ -101,5 +101,5 @@ Scalable cloud-native microservices platform for warehouse automation using Kafk
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://github.com/sriramanenivikas/sriramanenivikas/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sriramanenivikas/sriramanenivikas/output/github-contribution-grid-snake-dark.svg" />
 </p>
