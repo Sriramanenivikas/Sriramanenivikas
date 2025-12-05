@@ -1,6 +1,4 @@
-<!-- ========================= -->
-<!--        MAIN HEADER        -->
-<!-- ========================= -->
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=38&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=130&lines=S+VIKAS" />
@@ -9,10 +7,6 @@
 </div>
 
 ---
-
-<!-- ========================= -->
-<!--        TECH STACK         -->
-<!-- ========================= -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=1000&color=888888&lines=TECH+STACK" />
 
@@ -48,9 +42,7 @@
 
 <br></br>
 
-<!-- ========================= -->
-<!--          PROJECTS        -->
-<!-- ========================= -->
+ 
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=1000&color=888888&lines=PROJECTS" />
 
@@ -72,11 +64,11 @@ Implements JWT-secured authentication for 5 roles (Admin, Doctor, Nurse, Patient
 ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat&logo=tailwindcss)
 
 <p align="left">
-  <a href="https://github.com/YOUR_CARESYNC_REPO">
+  <a href="https://github.com/Sriramanenivikas/CARESYNC">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1&pause=1000&color=FFFFFF&width=200&height=45&lines=VIEW+CODE" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://YOUR_CARESYNC_LIVE_LINK">
+  <a href="https://caresync-frontend-ostr.onrender.com/">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1&pause=1000&color=FFFFFF&width=230&height=45&lines=LIVE+DEMO" />
   </a>
 </p>
@@ -166,10 +158,7 @@ Lovely Professional University, Punjab
 </details>
 
 ---
-
-<!-- ========================= -->
-<!--          CONNECT          -->
-<!-- ========================= -->
+ 
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=1000&color=888888&lines=CONNECT" />
 
