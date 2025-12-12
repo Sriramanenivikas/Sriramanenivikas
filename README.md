@@ -66,11 +66,11 @@ Implements JWT-secured authentication for 5 roles (Admin, Doctor, Nurse, Patient
 
 <p align="left">
   <a href="https://github.com/Sriramanenivikas/CARESYNC">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1&pause=1000&color=FFFFFF&width=200&height=45&lines=VIEW+CODE" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1&pause=1000&color=Adaptive&width=200&height=45&lines=VIEW+CODE" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://caresync-frontend-ostr.onrender.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1&pause=1000&color=FFFFFF&width=230&height=45&lines=LIVE+DEMO" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1&pause=1000&color=Adaptive&width=230&height=45&lines=LIVE+DEMO" />
   </a>
 </p>
 
@@ -104,11 +104,11 @@ CURRENTY BUILDING
 
 <p align="left">
   <a href="https://github.com/YOUR_IWOS_REPO">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1&pause=1000&color=FFFFFF&width=200&height=45&lines=VIEW+CODE" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1&pause=1000&color=Adaptive&width=200&height=45&lines=VIEW+CODE" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://YOUR_IWOS_LIVE_LINK">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1&pause=1000&color=FFFFFF&width=230&height=45&lines=LIVE+DEMO" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1&pause=1000&color=Adaptive&width=230&height=45&lines=LIVE+DEMO" />
   </a>
 </p>
 
