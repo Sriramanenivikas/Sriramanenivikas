@@ -117,12 +117,7 @@ CURRENTY BUILDING
 <!-- ========================= -->
 <!--         ANALYTICS         -->
 <!-- ========================= -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=1000&color=888888&lines=ANALYTICS" />
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sriramanenivikas&theme=dark&hide_border=true&ring=FF9F43&fire=FF9F43&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF9F43&sideLabels=AAAAAA&dates=AAAAAA" />
-</p>
+ 
 
 ---
 
