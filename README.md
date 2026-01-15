@@ -14,7 +14,6 @@
 ### Backend
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=flat&logo=springboot)
-![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
 ![REST API](https://img.shields.io/badge/REST%20API-000000?style=flat&logo=fastapi)
 
 ### Frontend
@@ -28,17 +27,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb)
 ![Redis](https://img.shields.io/badge/Redis-000000?style=flat&logo=redis)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apachekafka)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000000?style=flat&logo=rabbitmq)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker)
-![Kong](https://img.shields.io/badge/Kong-000000?style=flat&logo=kong)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-000000?style=flat&logo=postman)
-
 ---
 
 <br></br>
