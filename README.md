@@ -14,12 +14,11 @@
 ### Backend
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=flat&logo=springboot)
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=flat&logo=fastapi)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=flat&logo=swagger)
+
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5)
 ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat&logo=tailwindcss)
 
 ### Databases & Messaging
@@ -30,7 +29,7 @@
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazonaws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-000000?style=flat&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git)
 ---
 
@@ -78,21 +77,22 @@ Implements JWT-secured authentication for 5 roles (Admin, Doctor, Nurse, Patient
 
 Scalable cloud-native microservices platform for large-scale warehouse operations focused on high availability, real-time data processing, and event-driven architecture.
 
-Handles 1000+ concurrent warehouse operations using Kafka-based event streaming, RabbitMQ task queues, Redis caching, and Kong Gateway for secure API routing. Includes AI-powered analytics and demand forecasting using Python. Deployed on AWS with Docker and CI/CD pipelines for zero-downtime scaling.
+Handles High concurrent warehouse operations using Kafka-based event streaming, Redis caching, and Kong Gateway for secure API routing. Includes AI-powered analytics and demand forecasting using Python. Deployed on Azure with Docker and CI/CD pipelines for scaling.
 
-CURRENTY BUILDING
+Status: In Progress (Active Development)
+
 
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
+![AI](https://img.shields.io/badge/AI-000000?style=flat&logo=openai&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=flat&logo=springboot)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apachekafka)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000000?style=flat&logo=rabbitmq)
 ![Redis](https://img.shields.io/badge/Redis-000000?style=flat&logo=redis)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker)
 ![Kong](https://img.shields.io/badge/Kong-000000?style=flat&logo=kong)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazonaws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-000000?style=flat&logo=microsoftazure)
 ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
 
 <p align="left">
@@ -107,17 +107,10 @@ CURRENTY BUILDING
 
 ---
 
-<!-- ========================= -->
-<!--         ANALYTICS         -->
-<!-- ========================= -->
  
-
 ---
 
-<!-- ========================= -->
-<!--          LEETCODE         -->
-<!-- ========================= -->
-
+ 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=1000&color=888888&width=300&height=40&lines=LEETCODE" />
 
 <details>
