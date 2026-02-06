@@ -105,13 +105,10 @@ Status: In Progress (Active Development)
   </a>
 </p>
 
----
+
 
  
----
-
- 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=1000&color=888888&width=300&height=40&lines=LEETCODE" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=1000&color=888888&width=300&height=40&lines=LEETCODE" />
 
 <details>
 <summary>View LeetCode Stats</summary>
@@ -120,7 +117,7 @@ Status: In Progress (Active Development)
   <img src="https://leetcard.jacoblin.cool/sriramanenivikas123?theme=dark&ext=heatmap" />
 </p>
 
-</details>
+</details> -->
 
 ---
 
@@ -135,7 +132,7 @@ Status: In Progress (Active Development)
 
 B.Tech — Computer Science & Engineering  
 Lovely Professional University, Punjab  
-2022 — Present  
+2022 — 2026
 
 </details>
 
