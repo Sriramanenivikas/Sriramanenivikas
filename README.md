@@ -96,7 +96,7 @@ Status: In Progress (Active Development)
 ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
 
 <p align="left">
-  <a href="https://github.com/YOUR_IWOS_REPO">
+  <a href="https://github.com/Sriramanenivikas/Intelligent-Warehouse-Orchestration-System">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1&pause=1000&color=Adaptive&width=200&height=45&lines=VIEW+CODE" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
